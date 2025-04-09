@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eef2f5;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  transition: box-shadow 0.3s ease;
+}
+
+input:focus {
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+  background-color: #0056b3;
+}
